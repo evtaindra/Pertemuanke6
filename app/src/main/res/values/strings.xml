@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppL</string>
+    <string-array name="menu_makanan">
+        <item>Nasi Goreng</item>
+        <item>Mie Ayam</item>
+        <item>Sate Ayam</item>
+        <item>Soto Ayam</item>
+        <item>Bakso</item>
+        <item>Rendang</item>
+        <item>Gado-Gado</item>
+        <item>Nasi Padang</item>
+        <item>Ayam Penyet</item>
+        <item>Pecel Lele</item>
+    </string-array>
+
+</resources>
